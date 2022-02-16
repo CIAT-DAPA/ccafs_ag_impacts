@@ -1,0 +1,41 @@
+table, td, th{
+	border:1px solid black;
+}
+#downloadfile{
+	border:1px solid;
+	border-radius:20px;
+	float: left;
+	margin: 13px 4px 30px 50px;
+	padding: 0px 10px 10px 10px;
+	text-align:center;
+	width: 200px;
+}
+#filter{
+	border:1px solid;
+	padding: 0px 15px 15px 60px;
+	width: 400px;
+}
+#location{
+	border:1px solid;
+	border-radius:20px;
+	margin: 4px 4px 4px 4px;
+	padding:0px 10px 10px 10px;
+	width:370px;
+}
+#results{
+	/*border:1px solid;*/
+	display: none;
+	padding: 0px 10px 10px 10px;
+}
+
+.clear-table td {
+  border: none !important;
+}
+
+.clear-table tr {
+  border: none !important;
+}
+
+.clear-table table {
+  border: none !important;
+}
